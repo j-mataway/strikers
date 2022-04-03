@@ -71,6 +71,9 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+a{
+	text-decoration: none;
+}
 
 /* Basic */
 
@@ -1702,7 +1705,7 @@ input, select, textarea {
 				position: relative;
 				display: inline-block;
 				text-align: left;
-				margin: 0 20%;
+				margin: 0 30% 0 10%;
 				white-space: wrap;
 				left: 70px;
 			}
