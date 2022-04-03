@@ -1702,9 +1702,9 @@ input, select, textarea {
 				position: relative;
 				display: inline-block;
 				text-align: left;
-				margin: 0 auto;
+				margin: 0 20%;
 				white-space: wrap;
-				left: 24px;
+				left: 70px;
 			}
 
 				.box.feature1 header.second p {
@@ -1872,6 +1872,7 @@ input, select, textarea {
 			font-weight: 700;
 			line-height: 1.3em;
 			margin: 0 0 1.5em 0;
+			padding: 0 5%;
 		}
 		.blueBackground{
 			background: rgba(33, 56, 113, .4);
@@ -2372,10 +2373,6 @@ input, select, textarea {
 				padding: 8em 0 4em 0;
 			}
 
-				/* #banner br {
-					display: none;
-				} */
-
 		/* Sidebar */
 
 			#sidebar {
@@ -2480,6 +2477,9 @@ input, select, textarea {
 			.box.spotlight {
 				margin-top: 2em;
 			}
+			/* .icon p{
+				display: none;
+			} */
 
 		/* Wrappers */
 
